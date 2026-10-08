@@ -5,7 +5,7 @@
 ### Desarrollador Full Stack Jr. | JavaScript · TypeScript · Node.js · React · PostgreSQL
 
 📍 Magangué, Bolívar, Colombia  
-🎓 Full Stack Developer en Henry (módulo 5/5)  
+🎓 Egresado de Desarrollo Web Full Stack en Henry (octubre 2026)  
 🚀 **Buscando mi primera oportunidad como Junior Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nelson_Arzuza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelson-luisarzuza-diaz)
@@ -18,7 +18,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy desarrollador Full Stack en formación en **Henry**, trabajando con JavaScript y TypeScript tanto en frontend como en backend. Me gusta construir interfaces con **React y Vite**, desarrollar **APIs REST** con **Node.js y Express** y trabajar con bases de datos en **PostgreSQL**, siempre buscando escribir código limpio y bien estructurado.
+Soy desarrollador Full Stack, recién egresado de **Henry**, y trabajo con JavaScript y TypeScript tanto en frontend como en backend. Me gusta construir interfaces con **React y Vite**, desarrollar **APIs REST** con **Node.js y Express** y trabajar con bases de datos en **PostgreSQL**, siempre buscando escribir código limpio y bien estructurado.
 
 Estoy abierto a **prácticas, primer empleo o proyectos freelance** para seguir creciendo y sumar experiencia real de equipo.
 
@@ -83,7 +83,7 @@ Maquetado semántico con HTML y CSS.
 
 ## 🌱 Actualmente
 
-- 🎓 Finalizando la carrera de Desarrollo Web Full Stack en Henry
+- 🎓 Recién graduado de la carrera de Desarrollo Web Full Stack en Henry
 - 📖 Mejorando mi nivel de inglés (EF SET: A2)
 - 💼 Buscando mi primera oportunidad como Junior Developer
 
