@@ -50,6 +50,11 @@ Proyecto final en equipo de la carrera de Henry: una billetera digital full stac
 - 🔗 [Frontend](https://github.com/nexpayft76/nexpay-front) · [Backend](https://github.com/nexpayft76/nexpay-back)
 - 👥 Equipo: Nelson Arzuza · William Coral · Tamara Castronuovo · Raul Carmona
 
+### 🔌 Proyecto integrador – Módulo 5 (MCP Server con GitHub)
+Servidor **MCP (Model Context Protocol)** conectado con GitHub, que permite a asistentes de IA interactuar con repositorios a través de herramientas.
+- **Stack:** TypeScript · Node.js · MCP · GitHub API
+- 🔗 [Ver repositorio](https://github.com/nelson19926972-eng/Proyecto_M5_FT76_Nelson_Arzuza)
+
 ### ✅ Gestor de tareas – Módulo 4
 SPA de gestión de tareas con autenticación de usuarios, persistencia en la nube y notificaciones por correo.
 - **Stack:** Vite · React · TypeScript · Firestore · AWS SES
@@ -83,6 +88,7 @@ Maquetado semántico con HTML y CSS.
 - Consumo de APIs REST y routing con History API
 - Desarrollo de APIs REST con Node.js, Express y PostgreSQL, con arquitectura por capas
 - Interfaces con React, Vite y TypeScript
+- Servidores MCP e integración de herramientas con IA y la API de GitHub
 - Testing unitario, autenticación y control de versiones
 - Despliegue en producción y trabajo en equipo
 
