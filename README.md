@@ -63,6 +63,13 @@ Single Page Application para conversar con un personaje ficticio mediante **Goog
 - Integración segura con API de IA, gestión de API keys y tests unitarios
 - 🔗 [Ver repositorio](https://github.com/nelson19926972-eng/Proyecto_M3_FT76-_Nelson_Arzuza)
 
+### 📝 Proyecto integrador – Módulo 2 (Mini Blog API REST)
+API REST para gestionar autores y entradas (posts), construida con Node.js y Express.
+- **Stack:** Node.js · Express · SQL
+- Arquitectura por capas: rutas, controladores, servicios y configuración de base de datos
+- Pruebas incluidas y archivo `seed.sql` con datos de ejemplo
+- 💻 Se puede correr localmente siguiendo las instrucciones del repositorio
+
 ### 🎨 Proyecto integrador – Módulo 1
 Maquetado semántico con HTML y CSS.
 - 🔗 [Ver repositorio](https://github.com/nelson19926972-eng/Proyecto_M1_Nelson_Arzuza)
@@ -74,7 +81,7 @@ Maquetado semántico con HTML y CSS.
 - Maquetado semántico, mobile-first y responsivo
 - Manipulación del DOM y JavaScript asíncrono
 - Consumo de APIs REST y routing con History API
-- Desarrollo de APIs con Node.js, Express y PostgreSQL
+- Desarrollo de APIs REST con Node.js, Express y PostgreSQL, con arquitectura por capas
 - Interfaces con React, Vite y TypeScript
 - Testing unitario, autenticación y control de versiones
 - Despliegue en producción y trabajo en equipo
